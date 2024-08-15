@@ -17,5 +17,5 @@ Alice: Yes, but it’s over now. What about your project?<br>
 John: I finished mine last week. I’m just happy it’s all done now.<br>
 Alice: Good for you!.</p>
 <h1 id="questions">Questions</h1>
-<p><a href="https://go.app.web.id/englishxii-percakapan1">Click Here</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScna5XhrU5SlHOfcQCnZRdqvCFfcD8P5xhYCWRT4Owy07AV3g/viewform">Click Here</a></p>
 
